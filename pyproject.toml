@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wamjet"
+version = "0.1.0"
+description = "A skill and measurement tools for accelerating world-action-model inference."
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.9"
+dependencies = []          # trace analysis uses the standard library; GPU timing needs torch
+
+[project.optional-dependencies]
+numerics = ["numpy"]       # wamjet.equivalence.compare
+
+[project.scripts]
+wamjet-pipeline = "wamjet.pipeline:main"
+wamjet-equiv = "wamjet.equivalence:main"
+wamjet-paired = "wamjet.paired:main"
+
+[tool.setuptools.packages.find]
+include = ["wamjet*"]
