@@ -22,7 +22,7 @@ WAMJET provides reusable guidance and tools for:
 - Architecture-aware approximation
 - Iterative validation
 
-Experiments span six WAMs, three coding agents, and two GPU architectures. WAMJET delivers substantial speedups over upstream implementations while preserving action quality. See our [blog](assets/blog.md) for more details.
+WAMJET delivers substantial speedups over upstream implementations while preserving action quality. See our [blog](assets/blog.md) for more details.
 
 
 
