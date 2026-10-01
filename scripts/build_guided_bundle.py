@@ -19,7 +19,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 # Generic and policy-agnostic: the skill, the instrument package, the test
 # scripts, one benchmark adapter with no prior candidate or result baked in.
-# Deliberately excludes README.md, USAGE.md, PROMPTS.md, EVAL.md, pdf/,
+# Deliberately excludes README.md, USAGE.md, PROMPTS.md, EVAL.md, assets/,
 # .claude/, eval/, ledger/, .refs/, .cache/, .git, and
 # check_redaction.py / check_skill.py: these are sandbox-building tools for
 # whoever runs this script, not harness code the agent under test has any

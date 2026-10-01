@@ -1,22 +1,43 @@
-# WAMJET: A Harness for World Action Model Acceleration
+<div align="center" id="top">
+  <img src="assets/wamjet.jpg" alt="WAMJET" width="500"/>
 
-WAMJET is an agentic harness that accelerates WAM inference by equipping coding agents with reusable optimization guidance and measurement and validation tools.
+**A Harness for World Action Model Acceleration**
+
+[Quick Start](#quick-start) | [Blog](assets/blog.md) | [Licence](LICENSE)
+
+</div>
 
 
-## Workflow
+## Overview
 
-WAMJET follows a bottleneck-driven workflow where the agent profiles inference, modifies targeted code, validates effects, and iteratively refines the acceleration stack as bottlenecks shift, while preserving action quality.
+**WAMJET** is a harness that equips coding agents to develop acceleration strategies tailored to different WAMs and GPU architectures.
 
-![WAMJET workflow: startup, profile, optimize, validate, and repeat.](pdf/figure2_loop_2.png)
 
-## How to Start 
+![workflow](assets/workflow.png)
 
-Follow [PROMPTS.md](PROMPTS.md) to start a WAMJET campaign. Adapt the paths, model and resources to your environment.
+WAMJET provides reusable guidance and tools for:
+- Startup optimization
+- Bottleneck analysis
+- Lossless acceleration
+- Architecture-aware approximation
+- Iterative validation
 
-## Skill User Guide
-See [USAGE.md](USAGE.md) for setup, tools and validation details.
+Experiments span six WAMs, three coding agents, and two GPU architectures. WAMJET delivers substantial speedups over upstream implementations while preserving action quality. See our [blog](assets/blog.md) for more details.
+
+
+
+## Quick Start
+
+Follow [PROMPTS.md](PROMPTS.md) for example prompts to launch WAMJET lossless and approximate optimization campaigns.
+
+## Usage Guide
+See [USAGE.md](USAGE.md) for the WAMJET optimization workflow, tools, benchmarking, and validation procedures.
 
 ## Citation
+
+Please cite this work as:
+```bibtex
+```
 
 ## License
 WAMJET is an open source project licensed under [BSD 3-Clause License](LICENSE).

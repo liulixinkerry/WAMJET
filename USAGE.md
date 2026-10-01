@@ -1,4 +1,4 @@
-# WAMJET usage guide
+# WAMJET Usage Guide
 
 WAMJET is a skill and a small set of tools for accelerating world-action-model inference.
 The [optimization skill](skills/optimizing-policy-inference/SKILL.md) owns the workflow:
