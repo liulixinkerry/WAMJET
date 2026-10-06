@@ -2,7 +2,7 @@
 
 # WAMJET: A Harness for World Action Model Acceleration
 
-Le Chen<sup>1</sup>, Lixin Liu<sup>2,†</sup>, Jan Schneider<sup>1</sup>, Zeju Qiu<sup>1</sup>, Simon Guist<sup>1</sup>, Bernhard Schölkopf<sup>1</sup>, Dieter Büchler<sup>1,3</sup>
+[Le Chen](https://clthegoat.github.io/)<sup>1</sup>, [Lixin Liu](https://liulixinkerry.github.io/)<sup>2,†</sup>, [Jan Schneider](https://ei.is.mpg.de/person/jschneider)<sup>1</sup>, [Zeju Qiu](https://is.mpg.de/ei/person/zqiu)<sup>1</sup>, [Simon Guist](https://is.mpg.de/ei/person/sguist)<sup>1</sup>,<br>[Bernhard Schölkopf](https://is.mpg.de/ei/person/bs)<sup>1</sup>, [Dieter Büchler](https://ei.is.mpg.de/person/dbuechler)<sup>1,3</sup>
 
 <sup>1</sup>Max Planck Institute for Intelligent Systems · <sup>2</sup>The Chinese University of Hong Kong · <sup>3</sup>Johannes Kepler University Linz<br>  <sup>†</sup>Corresponding author<br>Sep 2026 | 🤖 [Code](https://github.com/liulixinkerry/WAMJET) | 📄 [Paper](https://arxiv.org/abs/2610.03797)
 
