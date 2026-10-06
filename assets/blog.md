@@ -4,7 +4,7 @@
 
 Le Chen<sup>1</sup>, Lixin Liu<sup>2,†</sup>, Jan Schneider<sup>1</sup>, Zeju Qiu<sup>1</sup>, Simon Guist<sup>1</sup>, Bernhard Schölkopf<sup>1</sup>, Dieter Büchler<sup>1,3</sup>
 
-<sup>1</sup>Max Planck Institute for Intelligent Systems · <sup>2</sup>The Chinese University of Hong Kong · <sup>3</sup>Johannes Kepler University Linz<br>  <sup>†</sup>Corresponding author<br>Sep 2026
+<sup>1</sup>Max Planck Institute for Intelligent Systems · <sup>2</sup>The Chinese University of Hong Kong · <sup>3</sup>Johannes Kepler University Linz<br>  <sup>†</sup>Corresponding author<br>Sep 2026 | 🤖 [Code](https://github.com/liulixinkerry/WAMJET) | 📄 [Paper](https://arxiv.org/abs/2610.03797)
 
 <img src="./wamjet.jpg" alt="WAMJET" width="500"/>
 
@@ -85,4 +85,11 @@ With WAMJET, the coding agent autonomously identifies bottlenecks and explores o
 
 Please cite this work as:
 ```bibtex
+@article{chen2026wamjet,
+  title={WAMJET: A Harness for World Action Model Acceleration},
+  author={Chen, Le and Liu, Lixin and Schneider, Jan and Qiu, Zeju
+                   and Guist, Simon and Sch{\"o}lkopf, Bernhard and B{\"u}chler, Dieter},
+  journal={arXiv preprint arXiv:2610.03797},
+  year={2026}
+}
 ```
