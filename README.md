@@ -40,8 +40,7 @@ Please cite this work as:
 ```
 @article{chen2026wamjet,
   title={WAMJET: A Harness for World Action Model Acceleration},
-  author={Chen, Le and Liu, Lixin and Schneider, Jan and Qiu, Zeju
-                   and Guist, Simon and Sch{\"o}lkopf, Bernhard and B{\"u}chler, Dieter},
+  author={Chen, Le and Liu, Lixin and Schneider, Jan and Qiu, Zeju and Guist, Simon and Sch{\"o}lkopf, Bernhard and B{\"u}chler, Dieter},
   journal={arXiv preprint arXiv:2610.03797},
   year={2026}
 }
